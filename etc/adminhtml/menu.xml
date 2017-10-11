@@ -1,0 +1,18 @@
+<config xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:magento:module:Magento_Backend:etc/menu.xsd">
+	<menu>
+		<add id="Obw_Main::obw_menu_main"
+		title="Objectwave"
+		module="Objectwave_Hub"
+		sortOrder="10"
+		resource="Onw_Main::obw_menu_main"
+		/>
+		<add id="Obw_Hub::obw_menu_hub"
+		title="Hub"
+		module="Objectwave_Hub"
+		sortOrder="9999"
+		resource="Obw_Hub::obw_menu_hub"
+		parent="Obw_Main::obw_menu_main"
+		action="obw_hub/index/index"
+		/>
+	</menu>
+</config>

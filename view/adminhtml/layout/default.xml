@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<!--
+/**
+ * # NOTICE OF LICENSE
+ * This work is licensed under a ***Creative Commons Attribution-NonCommercial-
+ * NoDerivs 3.0 Unported License*** http://creativecommons.org/licenses/by-nc-nd/3.0
+ *
+ * ## Authors
+ * Objectwave_Mex Development Team
+ * Iván Miranda @deivanmiranda
+ */
+-->
+
+<page xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:magento:framework:View/Layout/etc/page_configuration.xsd">
+	<head>
+		<css src="Obw_Hub::css/styles.css" />
+	</head>
+-
