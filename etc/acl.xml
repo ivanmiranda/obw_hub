@@ -10,13 +10,13 @@
  * Iván Miranda @deivanmiranda
  */
 -->
-<page
 <config xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:magento:framework:Acl/etc/acl.xsd">
     <acl>
         <resources>
             <resource id="Magento_Backend::admin">
-            	<resource id="Obw_Main::obw_menu_main" title="Objectwave" translate="title" sortOrder="0" >
+            	<resource id="Obw_Main::obw_menu_main" title="Pengo" translate="title" sortOrder="0" >
 	                <resource id="Obw_Hub::obw_menu_hub" title="Hub" translate="title" sortOrder="0" >
+	                    <resource id="Obw_Hub::obw_menu_hub_modules" title="Install Modules" translate="title" sortOrder="0" />
 	                </resource>
 	            </resource>
             </resource>
