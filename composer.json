@@ -6,7 +6,7 @@
     "obw/backendtheme": "1.*.*"
   },
   "type": "magento2-module",
-  "version": "0.0.4-beta",
+  "version": "0.0.6-beta",
   "license": [
     "CC-BY-NC-ND"
   ],
