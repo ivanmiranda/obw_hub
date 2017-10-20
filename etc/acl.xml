@@ -14,7 +14,7 @@
     <acl>
         <resources>
             <resource id="Magento_Backend::admin">
-            	<resource id="Obw_Main::obw_menu_main" title="Pengo" translate="title" sortOrder="0" >
+            	<resource id="Obw_Main::obw_menu_main" title="Objectwave" translate="title" sortOrder="0" >
 	                <resource id="Obw_Hub::obw_menu_hub" title="Hub" translate="title" sortOrder="0" >
 	                    <resource id="Obw_Hub::obw_menu_hub_modules" title="Install Modules" translate="title" sortOrder="0" />
 	                </resource>
