@@ -2,9 +2,12 @@
   "name": "obw/hub",
   "description": "Objectwave Extensions Hub",
   "type": "magento2-module",
-  "version": "0.0.8-beta",
+  "version": "0.0.9-beta",
   "license": [
     "CC-BY-NC-ND"
+  ],
+  "require": {
+		"php": "^5.3.3 || ">=7.0"
   ],
   "autoload": {
     "files": [
