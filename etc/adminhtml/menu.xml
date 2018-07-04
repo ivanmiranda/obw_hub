@@ -14,13 +14,5 @@
 		parent="Obw_Main::obw_menu_main"
 		action="Obw_hub/index/index"
 		/>
-		<add id="Obw_Hub::obw_menu_hub_modules"
-		title="Install Modules"
-		module="Obw_Hub"
-		sortOrder="9999"
-		resource="Obw_Hub::obw_menu_hub_modules"
-		parent="Obw_Hub::obw_menu_hub"
-		action="Obw_Hub/modules/index"
-		/>
 	</menu>
 </config>
