@@ -2,17 +2,17 @@
 	<menu>
 		<add id="Obw_Main::obw_menu_main"
 		title="Objectwave"
-		module="Objectwave_Hub"
+		module="Obw_Hub"
 		sortOrder="10"
-		resource="Onw_Main::obw_menu_main"
+		resource="Obw_Main::obw_menu_main"
 		/>
 		<add id="Obw_Hub::obw_menu_hub"
 		title="Hub"
-		module="Objectwave_Hub"
+		module="Obw_Hub"
 		sortOrder="9999"
 		resource="Obw_Hub::obw_menu_hub"
 		parent="Obw_Main::obw_menu_main"
-		action="obw_hub/index/index"
+		action="Obw_hub/index/index"
 		/>
 		<add id="Obw_Hub::obw_menu_hub_modules"
 		title="Install Modules"
