@@ -2,7 +2,7 @@
   "name": "obw/hub",
   "description": "Objectwave Extensions Hub",
   "type": "magento2-module",
-  "version": "0.0.9-beta",
+  "version": "1.0.0",
   "require": {
     "php": "^5.3.3 || ^7.0"
   },
